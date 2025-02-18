@@ -1,7 +1,7 @@
 # Nexa Blog - Next.js Blogging Platform
 
 ## 🚀 Overview
-Nexa Blog is a modern, full-stack blogging platform built with **Next.js**, leveraging **Server Actions**, **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, **Route Handlers**, and **RTK Query** for client-side data fetching. The project follows best practices for performance, caching, and metadata generation.
+Nexa Blog is a modern, blogging platform built with **Next.js**, leveraging **Server Actions**, **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, **Route Handlers**, and **RTK Query** for client-side data fetching. The project follows best practices for performance, caching, and metadata generation.
 
 ## 📂 Project Structure
 ```
